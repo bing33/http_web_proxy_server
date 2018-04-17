@@ -1,10 +1,10 @@
 # ############################################################################## #
 # Assignment: HTTP Web Proxy Server                                              #
-# Class: CS 4480 Computer Networks												 #
-# Program: pa1_b.py 															 #
-# By: Xiaobing Rawlinson														 #
-# Last Update Date: 2/7/2016													 #
-#																				 #
+# Class: CS 4480 Computer Networks						 #
+# Program: pa1_b.py 								 #
+# By: xrawlinson								 #
+# Last Update Date: 2/7/2016							 #
+#										 #
 # A web proxy that is capable of accepting HTTP GET requests, forwarding the 	 #
 # requests to remote (origin) servers, and returning response data to a client.  #
 # The proxy server can handle up to 100 clients' rquests concurrently.           #
